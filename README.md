@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vzhong. I am a PhD student at the University of Washington's NLP group
+- 👋 Hi, I’m @vzhong. I am an Assistant Professor at the University of Waterloo.
 - 📫 Find me at https://victorzhong.com
 
 <!---
